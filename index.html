@@ -4,6 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <style type="text/css">
+        
         html, body { margin: 0; padding: 0; }
         
         html {
@@ -19,16 +20,21 @@
         width: 50%;
         padding: 10px;
         }
-        .avatar {
-        border-radius: 10em;
-        width: 18em;
-        height: 18em;
-        }
         .avatar{
         display: block;
         overflow: hidden;
         margin: .5em auto;
         margin-bottom: 1em;
+        border-radius: 10em;
+        width: 18em;
+        height: 18em;
+        }
+        .avatar__image {
+        /* Rounded border */
+        border-radius: 50%;
+        /* Take full size */
+        height: 100%;
+        width: 100%;
         }
         .info {
         text-align: center;
@@ -44,13 +50,6 @@
         .subtitle {
         font-size: 20px;
         margin-bottom: 2px;
-        }
-        .avatar__image {
-        /* Rounded border */
-        border-radius: 50%;
-        /* Take full size */
-        height: 100%;
-        width: 100%;
         }
         
         .icon:hover .icon-unlock,
