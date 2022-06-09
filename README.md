@@ -1,2 +1,3 @@
-# kml96.github.io
-Homepage @ kamalupreti.com.np
+# Personal site homepage
+[Homepage](https://kamalupreti.com.np)
+
