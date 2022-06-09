@@ -33,9 +33,17 @@
         .info {
         text-align: center;
         }
-        .info   > h1 {
+        .title,  .subtitle{
+        display: block;
         font-weight: lighter;
-        font-size: 3em;
+        margin-bottom: 1px;
+        }
+        .title {
+        font-size: 40px;
+        }
+        .subtitle {
+        font-size: 20px;
+        margin-bottom: 2px;
         }
         .avatar__image {
         /* Rounded border */
@@ -67,7 +75,8 @@
                 <img class="avatar__image" src="me.jpg" />
             </div>
             <div class="info">
-                <h1>Kamal Chandra Upreti</h1>
+                <label class="title">Kamal Chandra Upreti</label>
+                <label class="subtitle">CS student & Software Developer</label>
                 <a href="#" class="icon">
                     <i class="icon-unlock"><img src="icons/github.svg"></i>
                     <i class="icon-lock"><img src="icons/github-color.svg"></i>
