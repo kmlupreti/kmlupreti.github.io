@@ -1,1 +1,91 @@
-<h1>Hello world</h1>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style type="text/css">
+        html, body { margin: 0; padding: 0; }
+        
+        html {
+        font-size: 1em;
+        line-height: 1.4;
+        }
+        
+        body {
+        font-family: sans-serif;
+        }
+        .center {
+        margin: auto;
+        width: 50%;
+        padding: 10px;
+        }
+        .avatar {
+        border-radius: 10em;
+        width: 18em;
+        height: 18em;
+        }
+        .avatar{
+        display: block;
+        overflow: hidden;
+        margin: .5em auto;
+        margin-bottom: 1em;
+        }
+        .info {
+        text-align: center;
+        }
+        .info   > h1 {
+        font-weight: lighter;
+        font-size: 3em;
+        }
+        .avatar__image {
+        /* Rounded border */
+        border-radius: 50%;
+        /* Take full size */
+        height: 100%;
+        width: 100%;
+        }
+        
+        .icon:hover .icon-unlock,
+        .icon .icon-lock {
+        display: none;
+        }
+        .icon:hover .icon-lock {
+        display: inline;
+        }
+        .icon > i > img      {
+        height: 10%;
+        width: 10%;
+        margin-right: 2px;
+        }
+        </style>
+        <title>Kamal Chandra Upreti</title>
+    </head>
+    <body>
+        <div class="center">
+            <div class="avatar">
+                <!-- Avatar image -->
+                <img class="avatar__image" src="me.jpg" />
+            </div>
+            <div class="info">
+                <h1>Kamal Chandra Upreti</h1>
+                <a href="#" class="icon">
+                    <i class="icon-unlock"><img src="icons/github.svg"></i>
+                    <i class="icon-lock"><img src="icons/github-color.svg"></i>
+                </a>
+                <a href="#" class="icon">
+                    <i class="icon-unlock"><img src="icons/linkedin.svg"></i>
+                    <i class="icon-lock"><img src="icons/linkedin-color.svg"></i>
+                </a>
+                <a href="#" class="icon">
+                    <i class="icon-unlock"><img src="icons/fb.svg"></i>
+                    <i class="icon-lock"><img src="icons/fb-color.svg"></i>
+                </a>
+                <a href="#" class="icon">
+                    <i class="icon-unlock"><img src="icons/reddit.svg"></i>
+                    <i class="icon-lock"><img src="icons/reddit-color.svg"></i>
+                </a>
+            </div>
+        </div>
+        
+    </body>
+</html>
