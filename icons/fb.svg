@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 64 64" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 63 32 C 63 14.875 49.125 1 32 1 C 14.875 1 1 14.875 1 32 C 1 47.472656 12.335938 60.296875 27.15625 62.625 L 27.15625 40.960938 L 19.28125 40.960938 L 19.28125 32 L 27.15625 32 L 27.15625 25.171875 C 27.15625 17.402344 31.78125 13.109375 38.863281 13.109375 C 42.257812 13.109375 45.804688 13.714844 45.804688 13.714844 L 45.804688 21.339844 L 41.894531 21.339844 C 38.046875 21.339844 36.84375 23.730469 36.84375 26.179688 L 36.84375 32 L 45.441406 32 L 44.066406 40.960938 L 36.84375 40.960938 L 36.84375 62.625 C 51.664062 60.296875 63 47.472656 63 32 Z M 63 32 "/>
+</g>
+</svg>
