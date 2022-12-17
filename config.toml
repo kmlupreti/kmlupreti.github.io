@@ -2,7 +2,7 @@
 base_url = "https://kamalupreti.com.np"
 
 # The site title and description; used in feeds by default.
-title = "Kamal Upreti (@kmlupreti)"
+title = "Kamal Chandra Upreti"
 description = "Personal Blog site"
 
 # The default language; used in feeds.
@@ -184,13 +184,13 @@ safari_pinned_tab = "/icons/safari-pinned-tab.svg"
 webmanifest = "/icons/site.webmanifest"
 
 [extra.author]
-name = "Kamal Upreti"
+name = "Kamal Chandra Upreti"
 avatar = "images/avatar.png"
 
 [extra.social]
 facebook = "kmlupreti"
-github = "kmlupreti"
-gitlab = "kmlupreti"
+github = "kml96"
+gitlab = "kml96"
 linkedin = "kamalchandraupreti"
 stackoverflow = "11883253"
 email = "kamalchettri1996@gmail.com"
