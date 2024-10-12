@@ -188,12 +188,11 @@ name = "Kamal Chandra Upreti"
 avatar = "images/avatar.png"
 
 [extra.social]
-facebook = "kmlupreti"
-github = "kml96"
-gitlab = "kml96"
-linkedin = "kamalchandraupreti"
+github = "kmlupreti"
+gitlab = "kmlupreti"
+linkedin = "kmlupreti"
 stackoverflow = "11883253"
-email = "kamalchettri1996@gmail.com"
+email = "kmlupreti@protonmail.com"
 twitter = "kmlupreti96"
 
 [extra.analytics]
