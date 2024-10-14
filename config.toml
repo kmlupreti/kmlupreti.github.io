@@ -6,7 +6,7 @@ base_url = "https://abridge.netlify.app"
 
 title = "Abridge"
 description = "Abridge is a fast, lightweight, and modern Zola theme (class-light, semantic HTML). Perfect Lighthouse, YellowLabTools, and Observatory scores."#for SEO aim for 140-180 Characters
-#theme = "abridge"
+theme = "abridge"
 
 default_language = "en"
 compile_sass = true
