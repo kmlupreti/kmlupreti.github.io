@@ -1,11 +1,11 @@
 # do NOT include a trailing slash on the base URL
-base_url = "https://abridge.netlify.app"
+base_url = "https://kamalupreti.com.np"
 # Usable site directly from disk, Including Search: "/home/jieiku/.dev/abridge/public"
 # Also set index format = "elasticlunr_javascript", and in [extra] uglyurls = true, integrity = false
 # If you use the npm/node script then all you have to do is set offline = true, and everything else is automatic.
 
-title = "Abridge"
-description = "Abridge is a fast, lightweight, and modern Zola theme (class-light, semantic HTML). Perfect Lighthouse, YellowLabTools, and Observatory scores."#for SEO aim for 140-180 Characters
+title = "Kamal Chandra Upreti"
+description = "Kamal Chandra Upreti is a software developer from Nepal.He is interested in rust, linux, embedded systems and systems programming"#for SEO aim for 140-180 Characters
 theme = "abridge"
 
 default_language = "en"
@@ -167,28 +167,28 @@ seo = true  # enable or disable seo-related meta tags: opengraph, facebook, twit
 ###############################################################################
 
 feed = true # this adds the RSS feed icon in the footer.
-mail = "name@example.com"
-mastodon = "https://mastodon.example.com/@username"
-element = "matrix.example.com"
+mail = "kmlupreti@protonmail.com"
+# mastodon = "https://mastodon.example.com/@username"
+# element = "matrix.example.com"
 #buymeacoffee = "your-user-name"
-kofi = "your-user-name"
+# kofi = "your-user-name"
 #discord = "your-discord" # Everything after https://discord.com/   eg: invite/my-server  *or*  servers/my-server-id
-#twitter = "your-user-name"
+twitter = "kmlupreti96"
 #facebook = "your-user-name"
-#linkedin = "your-user-name"
+linkedin = "kmlupreti"
 #gitlab = "your-user-name"
-github = "your-user-name"
+github = "kmlupreti"
 #codeberg = "your-user-name" # Everything after https://codeberg.org/   eg: username  *or*  username/repository
 #github_sponsor = "your-user-name"
 #bitbucket = "your-user-name"
 #python = "your-user-name"
 #docker = "your-user-name"
 #stack = "your-user-name"
-instagram = "your-user-name"
+# instagram = "your-user-name"
 #pixelfed = "https://pixelfed.example.com/" # Heaviest icon, off by default
 #pinterest = "your-user-name"
-twitch = "your-user-name"
-youtube = "channel/your-channel-id"
+# twitch = "your-user-name"
+# youtube = "channel/your-channel-id"
 #peertube = "https://peertube.example.com/@username"
 #researchgate = "your-profile-id"
 #telegram = "your-user-name"
