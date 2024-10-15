@@ -1,5 +1,5 @@
 +++
-title= "Kamal Chandra Upreti"
+title= "About Me"
 template = "homepage.html"
 +++
 
