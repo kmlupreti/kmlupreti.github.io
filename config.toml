@@ -17,6 +17,8 @@ socials = [
   { name = "linkedin", url = "https://www.linkedin.com/in/kmlupreti", icon = "linkedin" },
   { name = "twitter", url = "https://x.com/kmlupreti96", icon = "x-twitter" },
   { name = "reddit", url = "https://www.reddit.com/user/kmlupreti96", icon = "reddit" },
-]
+  { name = "matrix", url = "https://matrix.to/#/@kmlupreti:matrix.org", icon = "matrix" },
+  { name = "mastodon", url = "https://mastodon.social/@kmlupreti", icon = "mastodon" },
+  ]
 
 favicon = "avatar.png"
