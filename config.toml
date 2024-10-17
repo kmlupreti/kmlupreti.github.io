@@ -1,4 +1,4 @@
-base_url = "https://kamalupreti.com.np"
+base_url = "https://kml.is-a.dev"
 title = "Kamal Chandra Upreti"
 description = "Kamal Chandra Upreti is a software developer from Nepal.He is interested in rust, linux, embedded systems and systems programming"#for SEO aim for 140-180 Characters
 taxonomies = [{ name = "tags" }]
