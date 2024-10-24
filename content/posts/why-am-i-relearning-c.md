@@ -22,3 +22,5 @@ serious gaps in understanding of low level programming. Most of the programmers 
 low level concepts before using rust language. Though its not compulsory I found it hard to directly jump into rust world without proper understanding of C and its pitfalls.
 So I am trying to re-learn C again and move into rust language once I become proficient in Systems programming in C. I also wanted learn to C also to understand C bindings used by rust libraries and contribute in migrating
 unsafe c code into modern and safe rust programs. 
+I am learning C using classic book called K&R book named after its authors Brian Kernighan and Dennis Ritchie.
+If you are interested, I have been publishing codes [here](https://github.com/kmlupreti/c-programming-practice/)
