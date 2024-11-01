@@ -15,6 +15,7 @@ socials = [
   { name = "email", url = "mailto:kmlupreti@protonmail.com", icon = "email" },
   { name = "github", url = "https://github.com/kmlupreti", icon = "github" },
   { name = "linkedin", url = "https://www.linkedin.com/in/kmlupreti", icon = "linkedin" },
+  { name = "facebook", url = "https://www.facebook.com/kmlupreti96/", icon = "facebook" },
   { name = "twitter", url = "https://x.com/kmlupreti96", icon = "x-twitter" },
   { name = "reddit", url = "https://www.reddit.com/user/kmlupreti96", icon = "reddit" },
   { name = "matrix", url = "https://matrix.to/#/@kmlupreti:matrix.org", icon = "matrix" },
