@@ -3,8 +3,15 @@ title= "About Me"
 template = "homepage.html"
 +++
 
-Hi I am recent Computer Science and IT (CSIT) graduate interested in Systems Programming and Embedded Systems as well as AI and Robotics. 
+Hello! I am Kamal and I am interested in Computers, Electronics, Robotics and Technology in general.
+I am mostly learning about low level stuff like Operating Systems, Computer Architecture and Systems Programming these days. I had completed Bachelors in Computer Science and Information Technology (Bsc CSIT).
+I am working on having solid computer science background so I am re-learning many stuff that I had gone through in CS classes as they were shallow and exam focused instead of understanding core concepts.
 
-I am using C/C++ and Rust for low level stuff and Python/Bash for scripting and higher level stuff.
+I learning these things currently:
 
-I want to work on deep CS stuff like operating systems,compilers and theoritical CS stuff as well as applying those knowledge to build autonomous robots.
+* Systems Programming in C
+* Computer architecture and Assembly Programming using RISC-V
+* Linux kernel internals
+* Understanding Custom Android ROMs and postmarketos based Linux booting
+* Rust language and embedded rust using esp32c3 board
+* Programming intro from CS theoritical viewpoint using SICP Book
