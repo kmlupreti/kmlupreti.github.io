@@ -3,15 +3,14 @@ title= "About Me"
 template = "homepage.html"
 +++
 
-Hello! I am Kamal and I am interested in Computers, Electronics, Robotics and Technology in general.
-I am mostly learning about low level stuff like Operating Systems, Computer Architecture and Systems Programming these days. I had completed Bachelors in Computer Science and Information Technology (Bsc CSIT).
-I am working on having solid computer science background so I am re-learning many stuff that I had gone through in CS classes as they were shallow and exam focused instead of understanding core concepts.
-
+Hello! I am a software developer with strong intrestests in Systems programming in Rust. I have used various other programming languages in the past such as Javscript,python,C,Php etc. But nowadays I am just focused on learning Rust and its ecosystem. Following are the areas of my interests
 I learning these things currently:
 
-* Systems Programming in C
-* Computer architecture and Assembly Programming using RISC-V
-* Linux kernel internals
-* Understanding Custom Android ROMs and postmarketos based Linux booting
-* Rust language and embedded rust using esp32c3 board
-* Programming intro from CS theoritical viewpoint using SICP Book
+* Rust programming language
+* Systems programming
+* Linux ( I use arch btw)
+* Open source software
+* Embedded Systems programming
+* Compilers and Programming languages
+
+I am currently writing a simple tree-walk interpreter for Lox programming language given in Crafting interpreters book. you can check this out project [here](https://github.com/kmlupreti/rlox)
